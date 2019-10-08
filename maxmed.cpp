@@ -2,7 +2,6 @@
 using namespace std;
 #define pb push_back
 #define IOS ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
-#define int long long int
 #define p_b pop_back
 main()
 {
